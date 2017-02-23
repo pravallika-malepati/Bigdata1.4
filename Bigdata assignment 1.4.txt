@@ -1,0 +1,23 @@
+                                       Assignment 1.4
+
+1)Charecteristics of big data are:
+
+A)There are five charecteristiucs of big data.They are:
+1.Velocity:The speed at which the data is generated.
+2.Volume:Volume referes to the quantity of the data that has been generated.
+3.variety:There are three types of data
+ a.Structured data
+ b.unstructured data
+ c.semi-structured data
+4.Veracity:Veracioty is the Trust worthiness based on the  accuracy.
+5.Volatility: Volatility refers to how long the data is valid and how long it should be stored.
+
+
+2)The possible solutions to handle the big data are:
+A)some of the possible frameworks to handle big data are hadoop and cassandra.scale up and scale out are also the possible solutions to handle big data.
+
+
+3)The differences between scaling up and scaling out are:
+A)scaling up is the process of providing all the resources to a single system.
+   scaling down is the process of sharing resources among multiple systems to provide reliability. 
+
